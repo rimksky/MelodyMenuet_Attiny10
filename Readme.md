@@ -64,7 +64,7 @@ Attiny10 Fuse is Factory setting.
 
 [rimksky]: https://github.com/rimksky "rimksky"
 [MelodyMenuet_Attiny10]: https://github.com/rimksky/MelodyMenuet_Attiny10 "MelodyMenuet_Attiny10"
-[maris-HY]: https://github.com/maris-HY/bitDuino "maris-HY"
+[maris-HY]: https://github.com/maris-HY "maris-HY"
 [bitDuino]: https://github.com/maris-HY/bitDuino "bitDuino by maris-HY"
 [ToneSmapleSketch]: http://100year.cocolog-nifty.com/blog/2014/09/bitduino-21ab.html "ToneSmapleSketch"
 [arduino.cc]: http://www.arduino.cc/ "Arduino"

@@ -1,8 +1,9 @@
 /*
  * tone.h
  *
- * Porting: toneSampleSketch on bitDuino10
- *    http://100year.cocolog-nifty.com/blog/2014/08/arduino-f0f0.html
+ * Porting: toneSampleSketch on bitDuino
+ *   [bitDuino by @maris-HY]: https://github.com/maris-HY/bitDuino
+ *   [ToneSmapleSketch]: http://100year.cocolog-nifty.com/blog/2014/09/bitduino-21ab.html
  * modified: 2019/08/16 4:38:26
  *  Author: rimksky@gmail.com
  */ 

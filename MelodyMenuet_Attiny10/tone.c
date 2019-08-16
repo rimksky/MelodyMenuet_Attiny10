@@ -1,8 +1,8 @@
 /*
  * tone.c
  *
- * Porting: Tone.cpp on bitDuino10
- *    http://100year.cocolog-nifty.com/blog/2014/08/arduino-f0f0.html
+ * Porting: Tone.cpp on bitDuino
+ *   [bitDuino by @maris-HY]: https://github.com/maris-HY/bitDuino
  * modified: 2019/08/16 4:38:26
  *  Author: rimksky@gmail.com
  */
